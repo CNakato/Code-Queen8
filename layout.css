@@ -1,0 +1,72 @@
+.mother{
+height: 1500px;
+width: 1000px;
+margin: auto;
+background-color: rgb(37, 76, 168);
+padding-top: 50px;
+padding-left: 30px;
+padding-right: 30px;
+padding-left: 200px;
+padding-right: 100px;
+
+}
+
+.sister{
+height: 500px;
+width: 800px;
+background-color: rgb(49, 51, 150);
+
+
+}
+
+.child{
+background-color: aqua;
+height: 500px;
+width: 400px;
+
+text-align: center;
+border-radius: 10px;
+
+
+}
+
+.first{
+    float: left;
+    background-color: white;
+}
+
+
+
+.second{
+    float: right;
+    background-color: blue;
+
+
+}
+
+.logo{
+    align-items: center;
+    padding-top: 10px;
+
+}
+
+button{
+    background-color: rgb(54, 54, 166);
+    padding: 5px 90px 5px 90px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.inputs{
+    border: 0;
+    box-shadow: 1px 2px 1px lightblue;
+    width: 200px;
+
+}
+
+.jointwitter{
+    
+}
