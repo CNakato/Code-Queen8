@@ -39,7 +39,7 @@ border-radius: 10px;
 
 .second{
     float: right;
-    background-color: blue;
+    background-color: rgb(86, 86, 236);
 
 
 }
@@ -68,5 +68,7 @@ p{
 }
 
 .jointwitter{
+    align-items: center;
+
     
 }

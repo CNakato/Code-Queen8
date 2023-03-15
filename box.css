@@ -1,0 +1,49 @@
+.motherbox{
+    border: 10px green solid;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+}
+
+#bay{
+    height: 200px;
+    width: 200px;
+    border-top: 2px dotted red;
+    border-bottom: 5px blue dashed;
+    border-left: 5px green double;
+    border-right: 2px yellow dashed;
+
+}
+
+.box1{
+    border-radius: 5px;
+    border: 3px red solid;
+    width: 600px;
+    height: 600px;
+    margin: 100px;
+    box-shadow: 50px 50px grey;
+}
+
+#box2{
+    width: 400px;
+    height: 400px;
+    margin: 80px;
+    border: 20px cyan solid;
+    background-color: khaki;
+    border-top-left-radius: 80px;
+    border-top-color: cadetblue;
+    box-shadow: 20px 20px 10px gray;
+
+}
+
+.box3{
+    background-color: brown;
+    border: 5px limegreen solid;
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    border-radius: 50%;
+    box-shadow: 20px 20px 50px brown;
+  
+
+}
