@@ -1,0 +1,48 @@
+.bigbox{
+    background: rgb(227, 185, 218);
+    height: 500px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: gray 2px 2px 2px;
+    margin: auto;
+}
+
+.box1{
+background: blueviolet;
+height: 200px;
+width: 350px;
+margin-top: 2px;
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+}
+
+.box2{
+    background: white;
+    height: 300px;
+    width: 350px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+.image{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: calc(49% - 40px);
+    top: calc(49% - 140px);
+    border: 5px solid whitesmoke;
+    border-radius: 50%;
+}
+p{
+    text-align: center;
+
+}
+h4{
+    margin-top: 60px;
+}
+h5{
+
+}
+button{
+    margin-right: 30px;
+}
