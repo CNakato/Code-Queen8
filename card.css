@@ -3,7 +3,7 @@
     height: 500px;
     width: 350px;
     border-radius: 10px;
-    box-shadow: gray 2px 2px 2px;
+    box-shadow: gray 3px 3px 3px;
     margin: auto;
 }
 
@@ -22,6 +22,7 @@ border-top-left-radius: 5px;
     width: 350px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+    padding-top: 2px;
 
 }
 .image{
@@ -38,11 +39,25 @@ p{
 
 }
 h4{
-    margin-top: 60px;
+    margin-top: 80px;
+    text-align: center;
+    
+    
 }
 h5{
+    text-align: center;
+    margin-top: 10px;
+
 
 }
 button{
-    margin-right: 30px;
+    background-color: rgb(152, 57, 235);
+    color: white;
+    padding: 5px 30px 5px 30px;
+    border-radius: 20px;
+    position: absolute;
+    left: calc(48% - 40px);
+
+    
+
 }
